@@ -36,7 +36,7 @@
   // markdown
   "[markdown]": {
     "editor.fontSize": 19,
-    "editor.fontFamily": "Inconsolata, 'Noto Sans SC'",
+    // "editor.fontFamily": "Inconsolata, 'Noto Sans SC'",
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   // markdownlint
@@ -49,6 +49,7 @@
     "archlinux",
     "archwsl",
     "assaflavie",
+    "baomidou",
     "buildx",
     "changeme",
     "Chrony",
@@ -57,19 +58,24 @@
     "deepseek",
     "gitdir",
     "iburst",
+    "javac",
     "kyuan",
     "letsencrypt",
     "makecache",
     "makestep",
+    "mapstruct",
     "mirrorlist",
+    "mybatis",
     "mysqldump",
     "NACOS",
     "nologo",
+    "ntfy",
     "nvim",
     "pacman",
     "paru",
     "PGID",
     "powerline",
+    "projectlombok",
     "PUID",
     "pwsh",
     "Qwen",
@@ -82,6 +88,9 @@
     "seros",
     "serosme",
     "sonatype",
+    "springboot",
+    "springdoc",
+    "springframework",
     "timedatectl",
     "unigetui",
     "uroot",
@@ -111,5 +120,12 @@
   "claudeCode.useTerminal": true,
   "[dockercompose]": {
     "editor.defaultFormatter": "ms-azuretools.vscode-containers"
+  },
+  "diffEditor.codeLens": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 }
