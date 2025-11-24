@@ -113,8 +113,6 @@
     },
     "editor.defaultFormatter": "charliermarsh.ruff"
   },
-  // 禁用和隐藏 GitHub Copilot 提供的内置 AI 功能
-  "chat.disableAIFeatures": true,
   // 控制是否在 VS Code 内启用工作区信任
   "security.workspace.trust.enabled": false,
   "claudeCode.useTerminal": true,
