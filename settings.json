@@ -81,6 +81,7 @@
     "Qwen",
     "rclone",
     "Redpill",
+    "renewx",
     "Repodata",
     "runlike",
     "safecrlf",
@@ -124,6 +125,9 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 }
