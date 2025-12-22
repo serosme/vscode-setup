@@ -1,7 +1,7 @@
 {
   // 字体
   "editor.fontSize": 18,
-  "editor.fontFamily": "'Maple Mono'",
+  "editor.fontFamily": "'Maple Mono NF CN'",
   // 光标动画
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorBlinking": "smooth",
@@ -103,7 +103,6 @@
   // 换行设置
   "editor.wrappingStrategy": "advanced",
   "http.useLocalProxyConfiguration": false,
-  "redhat.telemetry.enabled": true,
   "workbench.secondarySideBar.defaultVisibility": "hidden",
   // python
   "[python]": {
@@ -116,7 +115,6 @@
   },
   // 控制是否在 VS Code 内启用工作区信任
   "security.workspace.trust.enabled": false,
-  "claudeCode.useTerminal": true,
   "[dockercompose]": {
     "editor.defaultFormatter": "ms-azuretools.vscode-containers"
   },
