@@ -26,20 +26,15 @@
   "git.fetchOnPull": true,
   "git.autoStash": true,
   "git.autofetch": true,
-  // formatter
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[yaml]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  // markdown
   "[markdown]": {
-    "editor.fontSize": 19,
-    // "editor.fontFamily": "Inconsolata, 'Noto Sans SC'",
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  // markdownlint
   "markdownlint.config": {
     // 具有相同内容的多个标题
     "no-duplicate-heading": false
