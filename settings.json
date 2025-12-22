@@ -1,7 +1,7 @@
 {
   // 字体
   "editor.fontSize": 18,
-  "editor.fontFamily": "'Maple Mono NF CN'",
+  "editor.fontFamily": "'Maple Mono'",
   // 光标动画
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorBlinking": "smooth",
@@ -33,6 +33,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[markdown]": {
+    "editor.fontFamily": "Inconsolata, 'Noto Sans SC'",
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "markdownlint.config": {
@@ -41,6 +42,7 @@
   },
   "cSpell.userWords": [
     "alist",
+    "antfu",
     "archlinux",
     "archwsl",
     "assaflavie",
@@ -53,6 +55,7 @@
     "deepseek",
     "gitdir",
     "iburst",
+    "Inconsolata",
     "javac",
     "kyuan",
     "letsencrypt",
@@ -64,6 +67,7 @@
     "mysqldump",
     "NACOS",
     "nologo",
+    "Noto",
     "ntfy",
     "nvim",
     "pacman",
