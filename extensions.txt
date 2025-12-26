@@ -1,7 +1,6 @@
 antfu.smart-clicks
 charliermarsh.ruff
 davidanson.vscode-markdownlint
-dbaeumer.vscode-eslint
 editorconfig.editorconfig
 esbenp.prettier-vscode
 ms-azuretools.vscode-containers
@@ -15,5 +14,4 @@ ms-vscode-remote.remote-wsl
 streetsidesoftware.code-spell-checker
 usernamehw.errorlens
 vivaxy.vscode-conventional-commits
-vue.volar
 yzhang.markdown-all-in-one
