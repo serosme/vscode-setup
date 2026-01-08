@@ -1,0 +1,35 @@
+{
+  "recommendations": [
+    // markdown
+    "davidanson.vscode-markdownlint",
+
+    //
+    "esbenp.prettier-vscode",
+
+    //
+    "editorconfig.editorconfig",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "antfu.open-in-github-button",
+
+    //
+    "vivaxy.vscode-conventional-commits",
+
+    //
+    "ms-azuretools.vscode-containers",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-wsl",
+
+    // python
+    "ms-python.debugpy",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.vscode-python-envs",
+    "charliermarsh.ruff",
+
+    // web
+    "vue.volar",
+    "antfu.browse-lite",
+    "dbaeumer.vscode-eslint"
+  ]
+}
