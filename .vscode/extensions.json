@@ -7,10 +7,10 @@
     "esbenp.prettier-vscode",
 
     //
+    "ms-ceintl.vscode-language-pack-zh-hans",
     "editorconfig.editorconfig",
     "streetsidesoftware.code-spell-checker",
     "usernamehw.errorlens",
-    "antfu.open-in-github-button",
 
     //
     "vivaxy.vscode-conventional-commits",
@@ -29,7 +29,6 @@
 
     // web
     "vue.volar",
-    "antfu.browse-lite",
     "dbaeumer.vscode-eslint"
   ]
 }
