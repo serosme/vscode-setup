@@ -122,7 +122,7 @@
   "conventionalCommits.gitmoji": false,
 
   // Prettier
-  "prettier.enable": false,
+  "prettier.enable": true,
 
   // 更新
   "update.enableWindowsBackgroundUpdates": false,
