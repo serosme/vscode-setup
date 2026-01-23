@@ -128,5 +128,8 @@
   "update.enableWindowsBackgroundUpdates": false,
 
   // AI
-  "chat.disableAIFeatures": true
+  "chat.disableAIFeatures": true,
+
+  // PowerShell
+  "powershell.integratedConsole.showOnStartup": false
 }
