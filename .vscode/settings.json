@@ -32,6 +32,7 @@
   "git.fetchOnPull": true,
   "git.autoStash": true,
   "git.autofetch": true,
+  "git.alwaysShowStagedChangesResourceGroup": true,
 
   // 安全性
   "security.workspace.trust.enabled": false,
