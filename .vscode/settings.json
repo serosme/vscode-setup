@@ -1,7 +1,7 @@
 {
   // 编辑器
   "editor.fontSize": 18,
-  "editor.fontFamily": "'Maple Mono'",
+  "editor.fontFamily": "'Monaspace Neon NF', 'Noto Sans SC'",
   "editor.scrollbar.vertical": "hidden",
   "editor.wrappingStrategy": "advanced",
 
