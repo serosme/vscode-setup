@@ -55,7 +55,6 @@
     "editor.defaultFormatter": "charliermarsh.ruff"
   },
 
-  "remote.autoForwardPortsSource": "hybrid",
   "diffEditor.codeLens": true,
 
   // 拼写检查
@@ -131,5 +130,8 @@
   "update.enableWindowsBackgroundUpdates": false,
 
   // GitHub Copilot
-  "github.copilot.nextEditSuggestions.enabled": true
+  "github.copilot.nextEditSuggestions.enabled": true,
+
+  // 扩展
+  "extensions.ignoreRecommendations": true
 }
