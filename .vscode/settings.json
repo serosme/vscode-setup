@@ -32,13 +32,14 @@
   "git.autoStash": true,
   "git.autofetch": true,
   "git.alwaysShowStagedChangesResourceGroup": true,
+  "git.confirmSync": false,
 
   // 安全性
   "security.workspace.trust.enabled": false,
 
   // markdown
   "[markdown]": {
-    "editor.fontFamily": "Inconsolata, 'Noto Sans SC'"
+    // "editor.fontFamily": "Inconsolata, 'Noto Sans SC'"
   },
   "markdownlint.config": {
     "no-duplicate-heading": false
@@ -87,6 +88,7 @@
     "nologo",
     "Noto",
     "ntfy",
+    "nums",
     "nvim",
     "pacman",
     "paru",
@@ -115,6 +117,8 @@
     "uroot",
     "vaultwarden",
     "Venv",
+    "Vite",
+    "vitepress",
     "winget",
     "xhofe"
   ],
