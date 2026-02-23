@@ -18,6 +18,8 @@
     "ms-vscode-remote.remote-wsl",
     "ms-vscode.remote-explorer",
     "streetsidesoftware.code-spell-checker",
-    "usernamehw.errorlens"
+    "usernamehw.errorlens",
+    "vitest.explorer",
+    "vue.volar"
   ]
 }
