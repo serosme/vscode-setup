@@ -39,7 +39,7 @@
 
   // markdown
   "[markdown]": {
-    // "editor.fontFamily": "Inconsolata, 'Noto Sans SC'"
+    "editor.fontFamily": "Inconsolata, 'Noto Sans SC'"
   },
   "markdownlint.config": {
     "no-duplicate-heading": false
