@@ -2,6 +2,7 @@
   "recommendations": [
     "charliermarsh.ruff",
     "davidanson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
     "editorconfig.editorconfig",
     "esbenp.prettier-vscode",
     "github.copilot-chat",
@@ -17,9 +18,14 @@
     "ms-vscode-remote.remote-ssh-edit",
     "ms-vscode-remote.remote-wsl",
     "ms-vscode.remote-explorer",
+    "redhat.java",
     "streetsidesoftware.code-spell-checker",
     "usernamehw.errorlens",
+    "vscjava.vscode-java-debug",
+    "vscjava.vscode-java-dependency",
+    "vscjava.vscode-java-test",
+    "vscjava.vscode-maven",
+    "vue.volar",
     "vitest.explorer",
-    "vue.volar"
   ]
 }
