@@ -1,5 +1,6 @@
 {
   "recommendations": [
+    "bradlc.vscode-tailwindcss",
     "charliermarsh.ruff",
     "davidanson.vscode-markdownlint",
     "dbaeumer.vscode-eslint",
