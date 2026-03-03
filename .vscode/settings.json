@@ -60,17 +60,11 @@
 
   "diffEditor.codeLens": true,
 
-  // 约定式提交
-  "conventionalCommits.gitmoji": false,
-
   // Prettier
   "prettier.enable": true,
 
   // 更新
   "update.enableWindowsBackgroundUpdates": false,
-
-  // GitHub Copilot
-  "github.copilot.nextEditSuggestions.enabled": true,
 
   // 扩展
   "extensions.ignoreRecommendations": true
