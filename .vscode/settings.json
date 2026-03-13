@@ -1,0 +1,71 @@
+{
+  // 编辑器
+  "editor.fontSize": 18,
+  "editor.fontFamily": "'Monaspace Neon NF', 'Noto Sans SC'",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.wrappingStrategy": "advanced",
+
+  // 工作台
+  "workbench.list.smoothScrolling": true,
+  "workbench.startupEditor": "none",
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+
+  // 窗口
+  "window.restoreWindows": "none",
+
+  // 开发容器
+  "dev.containers.gitCredentialHelperConfigLocation": "none",
+  "dev.containers.copyGitConfig": false,
+
+  // 调试
+  "debug.console.wordWrap": false,
+
+  // 终端
+  "terminal.integrated.shellIntegration.decorationsEnabled": "never",
+  "terminal.integrated.initialHint": false,
+
+  // 代理
+  "http.proxy": "http://127.0.0.1:7890",
+
+  // Git
+  "git.fetchOnPull": true,
+  "git.autoStash": true,
+  "git.autofetch": true,
+  "git.alwaysShowStagedChangesResourceGroup": true,
+  "git.confirmSync": false,
+
+  // 安全性
+  "security.workspace.trust.enabled": false,
+
+  // markdown
+  "[markdown]": {
+    "editor.fontFamily": "Inconsolata, 'Noto Sans SC'"
+  },
+  "markdownlint.config": {
+    "no-duplicate-heading": false
+  },
+
+  // python
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.organizeImports": "explicit"
+    },
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  },
+
+  // 资源管理器
+  "explorer.excludeGitIgnore": true,
+
+  "diffEditor.codeLens": true,
+
+  // Prettier
+  "prettier.enable": true,
+
+  // 更新
+  "update.enableWindowsBackgroundUpdates": false,
+
+  // 扩展
+  "extensions.ignoreRecommendations": true
+}
