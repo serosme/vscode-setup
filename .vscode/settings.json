@@ -55,9 +55,6 @@
     "editor.defaultFormatter": "charliermarsh.ruff"
   },
 
-  // 资源管理器
-  "explorer.excludeGitIgnore": true,
-
   "diffEditor.codeLens": true,
 
   // Prettier
