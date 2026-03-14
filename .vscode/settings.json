@@ -33,6 +33,7 @@
   "git.autofetch": true,
   "git.alwaysShowStagedChangesResourceGroup": true,
   "git.confirmSync": false,
+  "git.enableSmartCommit": true,
 
   // 安全性
   "security.workspace.trust.enabled": false,
@@ -43,16 +44,6 @@
   },
   "markdownlint.config": {
     "no-duplicate-heading": false
-  },
-
-  // python
-  "[python]": {
-    "editor.formatOnSave": true,
-    "editor.codeActionsOnSave": {
-      "source.fixAll": "explicit",
-      "source.organizeImports": "explicit"
-    },
-    "editor.defaultFormatter": "charliermarsh.ruff"
   },
 
   "diffEditor.codeLens": true,
