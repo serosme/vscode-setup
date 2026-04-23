@@ -55,5 +55,8 @@
   "update.enableWindowsBackgroundUpdates": false,
 
   // 扩展
-  "extensions.ignoreRecommendations": true
+  "extensions.ignoreRecommendations": true,
+
+  // AI
+  "chat.disableAIFeatures": true
 }
