@@ -1,6 +1,7 @@
 {
   // 主题
-  "theme": "One Dark",
+  "cli_default_open_behavior": "existing_window",
+  "theme": "GitHub Dark",
   "icon_theme": "Zed (Default)",
 
   // 代理
@@ -8,12 +9,11 @@
 
   // 会话
   "session": {
+    "restore_unsaved_buffers": false,
     "trust_all_worktrees": true,
   },
 
   // 快捷键
-  "base_keymap": "JetBrains",
-
   // 项目面板
   "project_panel": {
     "dock": "left",
