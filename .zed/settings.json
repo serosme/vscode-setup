@@ -7,8 +7,10 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+  // cli
+  "cli_default_open_behavior": "new_window",
+
   // 格式化
-  "cli_default_open_behavior": "existing_window",
   "format_on_save": "off",
 
   // 主题
