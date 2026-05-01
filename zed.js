@@ -3,7 +3,7 @@ const path = require('node:path')
 const readline = require('node:readline')
 
 const ZED_DIR = 'C:\\Users\\User\\AppData\\Roaming\\Zed'
-const BACKUP_DIR = path.join(__dirname, 'zed')
+const BACKUP_DIR = path.join(__dirname, '.zed')
 
 const FILES = ['settings.json', 'keymap.json']
 
