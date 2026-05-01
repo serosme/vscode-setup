@@ -13,9 +13,12 @@
   // 格式化
   "format_on_save": "off",
 
-  // 主题
+  // 视觉
   "theme": "One Dark",
   "icon_theme": "Zed (Default)",
+  "title_bar": {
+    "show_sign_in": false
+  },
 
   // 代理
   "proxy": "http://127.0.0.1:7890",
