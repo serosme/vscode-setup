@@ -7,9 +7,13 @@
 // from the command palette.
 [
   {
-    "context": "Workspace",
+    "context": "Workspace || Pane",
     "bindings": {
       "shift shift": "command_palette::Toggle",
+      "alt-`": "agent::Toggle",
+      "alt-1": "project_panel::Toggle",
+      "alt-2": "terminal_panel::Toggle",
+      "alt-3": "git_panel::Toggle",
     },
   },
 ]
