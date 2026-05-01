@@ -24,7 +24,6 @@
     "trust_all_worktrees": true,
   },
 
-  // 快捷键
   // 项目面板
   "project_panel": {
     "dock": "left",
